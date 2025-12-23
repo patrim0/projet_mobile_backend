@@ -8,6 +8,7 @@ import rateLimit from 'express-rate-limit';
 import authRoutes from './routes/auth.routes';
 import userRoutes from './routes/users.routes';
 import logsRoutes from './routes/logs.routes';
+import cityRoutes from './routes/cities.routes'
 
 import { errorMiddleware } from './middlewares/error.middleware';
 import { loggerMiddleware } from './middlewares/logs.middleware';
@@ -43,6 +44,7 @@ app.use(loggerMiddleware);
 
 app.use('/api', authRoutes);
 app.use('/api', userRoutes);
+app.use('/api', cityRoutes);
 
 app.use('/api', logsRoutes);
 

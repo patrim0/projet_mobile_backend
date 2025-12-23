@@ -1,0 +1,11 @@
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-17T17:35:41.315Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-18T05:37:59.717Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-21T06:39:01.542Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-21T06:39:03.042Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-21T20:36:41.857Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-21T20:39:21.162Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-22T03:52:33.600Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-22T08:58:22.083Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-22T08:58:30.430Z"}
+{"level":"error","message":"Invalid username or password | Error 401 at POST /api/auth/login","timestamp":"2025-12-22T21:14:41.638Z"}
+{"level":"error","message":"City not found | Error 404 at GET /api/cities?cca3=jpn","timestamp":"2025-12-23T05:20:55.892Z"}
